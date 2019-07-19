@@ -4603,7 +4603,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72205,
-        "GEOID10": "72205",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -4611,10 +4610,10 @@
         "AWATER10": 88174,
         "INTPTLAT10": "+34.7503256",
         "INTPTLON10": "-092.3512058",
-        "pop2010": 23000
+        "Population 2010": 23000,
+        "name": 72205
       }
     },
-
     {
       "type": "Feature",
       "geometry": {
@@ -17807,7 +17806,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72002,
-        "GEOID10": "72002",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -17815,7 +17813,8 @@
         "AWATER10": 1856552,
         "INTPTLAT10": "+34.6607945",
         "INTPTLON10": "-092.5275121",
-        "pop2010": 14134
+        "Population 2010": 14134,
+        "name": 72002
       }
     },
     {
@@ -19700,7 +19699,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72227,
-        "GEOID10": "72227",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -19708,7 +19706,8 @@
         "AWATER10": 524328,
         "INTPTLAT10": "+34.7768504",
         "INTPTLON10": "-092.3733026",
-        "pop2010": 11462
+        "Population 2010": 11462,
+        "name": 72227
       }
     },
     {
@@ -27759,7 +27758,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72142,
-        "GEOID10": "72142",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -27767,7 +27765,8 @@
         "AWATER10": 18455745,
         "INTPTLAT10": "+34.6972790",
         "INTPTLON10": "-092.0438383",
-        "pop2010": 2499
+        "Population 2010": 2499,
+        "name": 72142
       }
     },
     {
@@ -28750,7 +28749,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72201,
-        "GEOID10": "72201",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -28758,7 +28756,8 @@
         "AWATER10": 306430,
         "INTPTLAT10": "+34.7469052",
         "INTPTLON10": "-092.2800485",
-        "pop2010": 1024
+        "Population 2010": 1024,
+        "name": 72201
       }
     },
     {
@@ -34035,7 +34034,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72202,
-        "GEOID10": "72202",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -34043,7 +34041,8 @@
         "AWATER10": 3918012,
         "INTPTLAT10": "+34.7374415",
         "INTPTLON10": "-092.3044257",
-        "pop2010": 9978
+        "Population 2010": 9978,
+        "name": 72202
       }
     },
     {
@@ -38454,7 +38453,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72204,
-        "GEOID10": "72204",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -38462,10 +38460,10 @@
         "AWATER10": 579105,
         "INTPTLAT10": "+34.7175722",
         "INTPTLON10": "-092.3583316",
-        "pop2010": 32505
+        "Population 2010": 32505,
+        "name": 72204
       }
     },
-
     {
       "type": "Feature",
       "geometry": {
@@ -48050,7 +48048,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72206,
-        "GEOID10": "72206",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -48058,7 +48055,8 @@
         "AWATER10": 15643432,
         "INTPTLAT10": "+34.6328508",
         "INTPTLON10": "-092.2349868",
-        "pop2010": 25624
+        "Population 2010": 25624,
+        "name": 72206
       }
     },
     {
@@ -51183,7 +51181,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72207,
-        "GEOID10": "72207",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -51191,7 +51188,8 @@
         "AWATER10": 2694,
         "INTPTLAT10": "+34.7735309",
         "INTPTLON10": "-092.3464987",
-        "pop2010": 10344
+        "Population 2010": 10344,
+        "name": 72207
       }
     },
     {
@@ -57534,7 +57532,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72209,
-        "GEOID10": "72209",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -57542,7 +57539,8 @@
         "AWATER10": 895349,
         "INTPTLAT10": "+34.6763785",
         "INTPTLON10": "-092.3450743",
-        "pop2010": 32376
+        "Population 2010": 32376,
+        "name": 72209
       }
     },
     {
@@ -65819,7 +65817,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72210,
-        "GEOID10": "72210",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -65827,7 +65824,8 @@
         "AWATER10": 1616153,
         "INTPTLAT10": "+34.7138996",
         "INTPTLON10": "-092.5084502",
-        "pop2010": 14258
+        "Population 2010": 14258,
+        "name": 72210
       }
     },
     {
@@ -70096,7 +70094,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72211,
-        "GEOID10": "72211",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -70104,7 +70101,8 @@
         "AWATER10": 152709,
         "INTPTLAT10": "+34.7505556",
         "INTPTLON10": "-092.4176216",
-        "pop2010": 21288
+        "Population 2010": 21288,
+        "name": 72211
       }
     },
     {
@@ -73159,7 +73157,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72212,
-        "GEOID10": "72212",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -73167,7 +73164,8 @@
         "AWATER10": 97682,
         "INTPTLAT10": "+34.7858878",
         "INTPTLON10": "-092.4150283",
-        "pop2010": 12705
+        "Population 2010": 12705,
+        "name": 72212
       }
     },
     {
@@ -84400,7 +84398,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72223,
-        "GEOID10": "72223",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -84408,7 +84405,8 @@
         "AWATER10": 6723870,
         "INTPTLAT10": "+34.7887590",
         "INTPTLON10": "-092.5112545",
-        "pop2010": 19890
+        "Population 2010": 19890,
+        "name": 72223
       }
     },
     {
@@ -89317,7 +89315,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72118,
-        "GEOID10": "72118",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -89325,7 +89322,8 @@
         "AWATER10": 4236731,
         "INTPTLAT10": "+34.8404683",
         "INTPTLON10": "-092.3260350",
-        "pop2010": 22592
+        "Population 2010": 22592,
+        "name": 72118
       }
     },
     {
@@ -89972,7 +89970,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72119,
-        "GEOID10": "72119",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -89980,7 +89977,8 @@
         "AWATER10": 0,
         "INTPTLAT10": "+34.8339908",
         "INTPTLON10": "-092.2921940",
-        "pop2010": 5
+        "Population 2010": 5,
+        "name": 72119
       }
     },
     {
@@ -98153,7 +98151,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72120,
-        "GEOID10": "72120",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -98161,7 +98158,8 @@
         "AWATER10": 1174030,
         "INTPTLAT10": "+34.9022280",
         "INTPTLON10": "-092.2408171",
-        "pop2010": 31610
+        "Population 2010": 31610,
+        "name": 72120
       }
     },
     {
@@ -103944,7 +103942,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72103,
-        "GEOID10": "72103",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -103952,7 +103949,8 @@
         "AWATER10": 439228,
         "INTPTLAT10": "+34.5905079",
         "INTPTLON10": "-092.3900622",
-        "pop2010": 13078
+        "Population 2010": 13078,
+        "name": 72103
       }
     },
     {
@@ -106879,7 +106877,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72114,
-        "GEOID10": "72114",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -106887,7 +106884,8 @@
         "AWATER10": 2857678,
         "INTPTLAT10": "+34.7649020",
         "INTPTLON10": "-092.2603482",
-        "pop2010": 12658
+        "Population 2010": 12658,
+        "name": 72114
       }
     },
     {
@@ -109268,7 +109266,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72116,
-        "GEOID10": "72116",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -109276,7 +109273,8 @@
         "AWATER10": 513529,
         "INTPTLAT10": "+34.8002575",
         "INTPTLON10": "-092.2453167",
-        "pop2010": 21431
+        "Population 2010": 21431,
+        "name": 72116
       }
     },
     {
@@ -114631,7 +114629,6 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "ZCTA5CE10": 72117,
-        "GEOID10": "72117",
         "CLASSFP10": "B5",
         "MTFCC10": "G6350",
         "FUNCSTAT10": "S",
@@ -114639,7 +114636,8 @@
         "AWATER10": 14476723,
         "INTPTLAT10": "+34.7691839",
         "INTPTLON10": "-092.1446751",
-        "pop2010": 12684
+        "Population 2010": 12684,
+        "name": 72117
       }
     }
   ]
