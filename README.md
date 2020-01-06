@@ -4,8 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://yutaochen.github.io/leaflet-maps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1K1-KOa9Afg0-cEsfPRozyNdKH2MYa8HPnnSMbDqUixI/edit#gid=0
+- Leaflet Map https://yutaochen.github.io/homicides_2020/
+- Google Sheets template https://docs.google.com/spreadsheets/d/10jiFVCgmIK0MxDUHJrhaMq4Vu9njnHp-JHZesGh9A2U/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
